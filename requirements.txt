@@ -1,0 +1,14 @@
+ftfy 
+regex 
+tqdm 
+omegaconf 
+pytorch-lightning
+kornia
+imageio-ffmpeg   
+einops
+gradio
+torch
+torchvision
+Pillow
+numpy
+imageio
